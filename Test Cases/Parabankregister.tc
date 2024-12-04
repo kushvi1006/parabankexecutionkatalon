@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>Parabankregister</name>
-   <tag></tag>
-   <comment></comment>
-   <recordOption>OTHER</recordOption>
-   <testCaseGuid>ef707b9a-5bae-40ee-9ab5-b26f3f3673cf</testCaseGuid>
-</TestCaseEntity>
