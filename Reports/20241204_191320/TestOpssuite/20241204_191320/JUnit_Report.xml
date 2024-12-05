@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="TestOpssuite" time="63.015" tests="1" failures="0" errors="0">
+   <testsuite name="TestOpssuite" tests="1" failures="0" errors="0" time="63.015" skipped="0" timestamp="04-12-2024T19:13:48" hostname="1000984 - WN-5CG7503FWV.mshome.net" id="Test Suites/TestOpssuite">
+      <properties>
+         <property name="deviceName" value=""/>
+         <property name="devicePlatform"/>
+         <property name="logFolder" value="C:\\Users\\1000984\\git\\parabankexecutionkatalon\\Reports\\20241204_191320\\TestOpssuite\\20241204_191320"/>
+         <property name="logFiles" value="C:\\Users\\1000984\\git\\parabankexecutionkatalon\\Reports\\20241204_191320\\TestOpssuite\\20241204_191320\\execution0.log"/>
+         <property name="attachments" value=""/>
+         <property name="hostName" value="1000984 - WN-5CG7503FWV.mshome.net"/>
+         <property name="os" value="Windows 10 64bit"/>
+         <property name="katalonVersion" value="10.0.0.223"/>
+         <property name="browser" value="Chrome 131.0.0.0"/>
+         <property name="hostAddress" value="172.24.0.1"/>
+         <property name="sessionId" value="cd7cdd34ae9e210d070423905196e98c"/>
+         <property name="seleniumVersion" value="4.22.0"/>
+         <property name="proxyInformation" value="ProxyInformation { proxyOption=NO_PROXY, proxyServerType=HTTP, username=, password=********, proxyServerAddress=, proxyServerPort=0, executionList=&quot;&quot;, isApplyToDesiredCapabilities=true }"/>
+         <property name="platform" value="Windows 10"/>
+      </properties>
+      <testcase name="Test Cases/TestOpsIntegration/Testopsintegration" time="61.556" classname="Test Cases/TestOpsIntegration/Testopsintegration" status="PASSED">
+         <system-out><![CDATA[04-12-2024T19:13:50 - [TEST_CASE][PASSED] - Test Cases/TestOpsIntegration/Testopsintegration: Test Cases/TestOpsIntegration/Testopsintegration
+
+04-12-2024T19:13:52 - [TEST_STEP][PASSED] - openBrowser("https://parabank.parasoft.com/parabank/index.htm"): Browser is opened with url: 'https://parabank.parasoft.com/parabank/index.htm'
+
+04-12-2024T19:13:54 - [MESSAGE][INFO] - Starting 'Chrome' driver
+
+04-12-2024T19:13:55 - [MESSAGE][INFO] - Action delay is set to 0 milliseconds
+
+04-12-2024T19:14:51 - [MESSAGE][PASSED] - Browser is opened with url: 'https://parabank.parasoft.com/parabank/index.htm']]></system-out>
+         <system-err><![CDATA[]]></system-err>
+      </testcase>
+      <system-out><![CDATA[04-12-2024T19:13:48 - [TEST_SUITE][PASSED] - TestOpssuite: Test Cases/TestOpsIntegration/Testopsintegration]]></system-out>
+      <system-err><![CDATA[]]></system-err>
+   </testsuite>
+</testsuites>

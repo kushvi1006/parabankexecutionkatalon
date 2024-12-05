@@ -1,0 +1,5 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+TestOpssuite,Chrome 131.0.0.0,,,04-12-2024 19:13:48,04-12-2024 19:14:51,1m - 3.015s,PASSED
+,,,,,,,
+Test Cases/TestOpsIntegration/Testopsintegration,Chrome 131.0.0.0,,,04-12-2024 19:13:50,04-12-2024 19:14:51,1m - 1.556s,PASSED
+"openBrowser(""https://parabank.parasoft.com/parabank/index.htm"")",Chrome 131.0.0.0,,,04-12-2024 19:13:52,04-12-2024 19:14:51,59.495s,PASSED
